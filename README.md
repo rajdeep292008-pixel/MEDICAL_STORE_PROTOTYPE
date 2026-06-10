@@ -1,5 +1,7 @@
 #First Project to work on.
 
+#This is just a template.
+
 #NOTE----- Every info and details mentioned in this project was totally used with the intend of making a running prototype 
 
 This is a prototype of a website made with the help of emerging A.I. tools and HTML.
